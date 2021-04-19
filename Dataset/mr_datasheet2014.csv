@@ -1,0 +1,152 @@
+District_Name,Crop_Year,Season,Crop,Area,Production
+AURANGABAD,2014,Kharif     ,Arhar/Tur,32900,8700
+AURANGABAD,2014,Kharif     ,Bajra,45300,24200
+AURANGABAD,2014,Kharif     ,Cotton(lint),422600,244300
+AURANGABAD,2014,Kharif     ,Groundnut,4100,900
+AURANGABAD,2014,Kharif     ,Jowar,3700,1700
+AURANGABAD,2014,Kharif     ,Maize,191700,175800
+AURANGABAD,2014,Kharif     ,Moong(Green Gram),3700,800
+AURANGABAD,2014,Kharif     ,Niger seed,100,
+AURANGABAD,2014,Kharif     ,Other Kharif pulses,100,
+AURANGABAD,2014,Kharif     ,Soyabean,18700,8500
+AURANGABAD,2014,Kharif     ,Sunflower,100,
+AURANGABAD,2014,Rabi       ,Gram,41800,16300
+AURANGABAD,2014,Rabi       ,Jowar,107100,44900
+AURANGABAD,2014,Rabi       ,Maize,9000,11400
+AURANGABAD,2014,Rabi       ,Other  Rabi pulses,100,
+AURANGABAD,2014,Rabi       ,Safflower,600,200
+AURANGABAD,2014,Rabi       ,Wheat,35400,33900
+AURANGABAD,2014,Summer     ,Maize,3400,1500
+AURANGABAD,2014,Whole Year ,Sugarcane,13900,932200
+BEED,2014,Kharif     ,Arhar/Tur,60600,10200
+BEED,2014,Kharif     ,Bajra,127100,56200
+BEED,2014,Kharif     ,Castor seed,3300,700
+BEED,2014,Kharif     ,Cotton(lint),373300,167600
+BEED,2014,Kharif     ,Groundnut,10800,2600
+BEED,2014,Kharif     ,Jowar,19400,10300
+BEED,2014,Kharif     ,Maize,6200,4700
+BEED,2014,Kharif     ,Moong(Green Gram),5000,1200
+BEED,2014,Kharif     ,Niger seed,800,100
+BEED,2014,Kharif     ,Other Kharif pulses,2000,400
+BEED,2014,Kharif     ,Rice,400,100
+BEED,2014,Kharif     ,Sesamum,2900,500
+BEED,2014,Kharif     ,Soyabean,113400,39900
+BEED,2014,Kharif     ,Sunflower,1700,600
+BEED,2014,Rabi       ,Gram,64400,24000
+BEED,2014,Rabi       ,Jowar,250400,134800
+BEED,2014,Rabi       ,Linseed,700,100
+BEED,2014,Rabi       ,Maize,8500,5900
+BEED,2014,Rabi       ,Safflower,1900,300
+BEED,2014,Rabi       ,Sunflower,500,100
+BEED,2014,Rabi       ,Wheat,59100,40000
+BEED,2014,Summer     ,Groundnut,1600,1000
+BEED,2014,Summer     ,Maize,1300,600
+BEED,2014,Whole Year ,Sugarcane,37600,1723500
+HINGOLI,2014,Kharif     ,Arhar/Tur,41100,18500
+HINGOLI,2014,Kharif     ,Castor seed,5500,1100
+HINGOLI,2014,Kharif     ,Cotton(lint),94700,85400
+HINGOLI,2014,Kharif     ,Jowar,47900,19200
+HINGOLI,2014,Kharif     ,Maize,1300,500
+HINGOLI,2014,Kharif     ,Moong(Green Gram),16900,2100
+HINGOLI,2014,Kharif     ,Niger seed,500,100
+HINGOLI,2014,Kharif     ,Other Kharif pulses,100,
+HINGOLI,2014,Kharif     ,Soyabean,137700,38400
+HINGOLI,2014,Rabi       ,Gram,77300,220400
+HINGOLI,2014,Rabi       ,Jowar,7300,5000
+HINGOLI,2014,Rabi       ,Maize,500,100
+HINGOLI,2014,Rabi       ,Other  Rabi pulses,200,
+HINGOLI,2014,Rabi       ,Safflower,14500,5100
+HINGOLI,2014,Rabi       ,Wheat,49500,33000
+HINGOLI,2014,Summer     ,Groundnut,4400,4200
+HINGOLI,2014,Summer     ,Maize,1600,1000
+HINGOLI,2014,Whole Year ,Sugarcane,15200,4200
+JALNA,2014,Kharif     ,Arhar/Tur,47200,11900
+JALNA,2014,Kharif     ,Bajra,23300,7700
+JALNA,2014,Kharif     ,Castor seed,100,
+JALNA,2014,Kharif     ,Cotton(lint),294200,159100
+JALNA,2014,Kharif     ,Groundnut,800,300
+JALNA,2014,Kharif     ,Jowar,1100,300
+JALNA,2014,Kharif     ,Maize,57600,32200
+JALNA,2014,Kharif     ,Moong(Green Gram),45000,7200
+JALNA,2014,Kharif     ,Other Kharif pulses,1000,200
+JALNA,2014,Kharif     ,Soyabean,109300,40300
+JALNA,2014,Kharif     ,Sunflower,100,
+JALNA,2014,Rabi       ,Gram,27100,6800
+JALNA,2014,Rabi       ,Jowar,23100,6500
+JALNA,2014,Rabi       ,Other  Rabi pulses,100,
+JALNA,2014,Rabi       ,Wheat,1900,1500
+JALNA,2014,Summer     ,Maize,200,100
+JALNA,2014,Whole Year ,Sugarcane,10001,30001
+LATUR,2014,Kharif     ,Arhar/Tur,113200,28300
+LATUR,2014,Kharif     ,Bajra,2500,400
+LATUR,2014,Kharif     ,Castor seed,700,100
+LATUR,2014,Kharif     ,Cotton(lint),3800,2700
+LATUR,2014,Kharif     ,Groundnut,1700,400
+LATUR,2014,Kharif     ,Jowar,88300,94600
+LATUR,2014,Kharif     ,Maize,6700,4100
+LATUR,2014,Kharif     ,Moong(Green Gram),13200,4800
+LATUR,2014,Kharif     ,Niger seed,1200,200
+LATUR,2014,Kharif     ,Other Kharif pulses,700,100
+LATUR,2014,Kharif     ,Rice,5800,1100
+LATUR,2014,Kharif     ,Sesamum,2100,300
+LATUR,2014,Kharif     ,Soyabean,336800,210000
+LATUR,2014,Kharif     ,Sunflower,3400,700
+LATUR,2014,Rabi       ,Gram,67000,20000
+LATUR,2014,Rabi       ,Jowar,22200,8100
+LATUR,2014,Rabi       ,Linseed,500,
+LATUR,2014,Rabi       ,Maize,2000,1100
+LATUR,2014,Rabi       ,Other  Rabi pulses,400,100
+LATUR,2014,Rabi       ,Safflower,12900,3800
+LATUR,2014,Rabi       ,Sunflower,4000,1300
+LATUR,2014,Rabi       ,Wheat,47200,10800
+LATUR,2014,Summer     ,Groundnut,1500,1100
+LATUR,2014,Whole Year ,Sugarcane,46400,2354600
+NANDED,2014,Kharif     ,Arhar/Tur,71600,14700
+NANDED,2014,Kharif     ,Castor seed,300,100
+NANDED,2014,Kharif     ,Cotton(lint),342300,176800
+NANDED,2014,Kharif     ,Groundnut,100,
+NANDED,2014,Kharif     ,Jowar,88300,28600
+NANDED,2014,Kharif     ,Maize,700,300
+NANDED,2014,Kharif     ,Moong(Green Gram),23600,3900
+NANDED,2014,Kharif     ,Niger seed,400,
+NANDED,2014,Kharif     ,Other Kharif pulses,200,
+NANDED,2014,Kharif     ,Rice,800,100
+NANDED,2014,Kharif     ,Sesamum,1300,100
+NANDED,2014,Kharif     ,Soyabean,218900,64500
+NANDED,2014,Kharif     ,Sunflower,1300,300
+NANDED,2014,Rabi       ,Gram,51200,25700
+NANDED,2014,Rabi       ,Jowar,25600,13000
+NANDED,2014,Rabi       ,Maize,200,100
+NANDED,2014,Rabi       ,Other  Rabi pulses,100,
+NANDED,2014,Rabi       ,Safflower,3100,900
+NANDED,2014,Rabi       ,Sesamum,100,
+NANDED,2014,Rabi       ,Wheat,39500,29200
+NANDED,2014,Summer     ,Groundnut,5000,4300
+NANDED,2014,Summer     ,Maize,3000,3500
+NANDED,2014,Whole Year ,Sugarcane,18800,1113200
+OSMANABAD,2014,Kharif     ,Arhar/Tur,101000,28600
+OSMANABAD,2014,Kharif     ,Bajra,17700,4400
+OSMANABAD,2014,Kharif     ,Castor seed,1300,300
+OSMANABAD,2014,Kharif     ,Cotton(lint),29300,23000
+OSMANABAD,2014,Kharif     ,Groundnut,7100,1900
+OSMANABAD,2014,Kharif     ,Jowar,45300,12000
+OSMANABAD,2014,Kharif     ,Maize,21200,8000
+OSMANABAD,2014,Kharif     ,Moong(Green Gram),15600,3400
+OSMANABAD,2014,Kharif     ,Niger seed,3400,500
+OSMANABAD,2014,Kharif     ,Other Kharif pulses,2100,100
+OSMANABAD,2014,Kharif     ,Rice,13100,2500
+OSMANABAD,2014,Kharif     ,Sesamum,5400,600
+OSMANABAD,2014,Kharif     ,Soyabean,133500,65600
+OSMANABAD,2014,Kharif     ,Sunflower,14300,3500
+OSMANABAD,2014,Rabi       ,Gram,112900,48700
+OSMANABAD,2014,Rabi       ,Jowar,215900,74500
+OSMANABAD,2014,Rabi       ,Linseed,4900,1100
+OSMANABAD,2014,Rabi       ,Maize,2700,1600
+OSMANABAD,2014,Rabi       ,Other  Rabi pulses,1100,200
+OSMANABAD,2014,Rabi       ,Safflower,28300,8000
+OSMANABAD,2014,Rabi       ,Sunflower,15800,4900
+OSMANABAD,2014,Rabi       ,Wheat,24100,7100
+OSMANABAD,2014,Summer     ,Groundnut,1900,800
+OSMANABAD,2014,Summer     ,Maize,1300,
+OSMANABAD,2014,Summer     ,Sunflower,500,200
+OSMANABAD,2014,Whole Year ,Sugarcane,39800,1592200

@@ -1,0 +1,466 @@
+District,Division,Year,Crop Type,Area(acres),Production(tons)
+Khulna,Khulna,2006,Aus Rice,10750,5557
+Jessor,Khulna,2006,Aus Rice,72520,75625
+Satkhira,Khulna,2006,Aus Rice,3720,3606
+Chuadanga,Khulna,2006,Aus Rice,20660,15796
+Chittagong,Chittagong,2006,Aus Rice,91835,86859
+Cox's Bazar,Chittagong,2006,Aus Rice,1725,1897
+Chandpur,Chittagong,2006,Aus Rice,37490,24838
+Feni,Chittagong,2006,Aus Rice,34435,25262
+Comilla,Chittagong,2006,Aus Rice,116225,90069
+Rangamati,Chittagong,2006,Aus Rice,12790,7989
+Noakhali,Chittagong,2006,Aus Rice,82155,56648
+Khagrachhari,Chittagong,2006,Aus Rice,6585,5111
+Dinajpur,North region,2006,Aus Rice,19260,14343
+Rangpur,North region,2006,Aus Rice,0,0
+Rajshahi,North region,2006,Aus Rice,76925,67169
+Bogura,North region,2006,Aus Rice,20940,15891
+Khulna,Khulna,2007,Aus Rice,13695,8060
+Jessor,Khulna,2007,Aus Rice,86660,80571
+Satkhira,Khulna,2007,Aus Rice,3175,2955
+Chuadanga,Khulna,2007,Aus Rice,27555,19851
+Chittagong,Chittagong,2007,Aus Rice,99600,93523
+Cox's Bazar,Chittagong,2007,Aus Rice,1765,1837
+Chandpur,Chittagong,2007,Aus Rice,23450,15610
+Feni,Chittagong,2007,Aus Rice,32765,18206
+Comilla,Chittagong,2007,Aus Rice,77375,50677
+Rangamati,Chittagong,2007,Aus Rice,15435,8723
+Noakhali,Chittagong,2007,Aus Rice,98060,47722
+Khagrachhari,Chittagong,2007,Aus Rice,6545,5791
+Dinajpur,North region,2007,Aus Rice,25145,17608
+Rangpur,North region,2007,Aus Rice,,
+Rajshahi,North region,2007,Aus Rice,105520,84331
+Bogura,North region,2007,Aus Rice,52555,44430
+Khulna,Khulna,2008,Aus Rice,18980,11594
+Jessor,Khulna,2008,Aus Rice,99345,93031
+Satkhira,Khulna,2008,Aus Rice,6080,4559
+Chuadanga,Khulna,2008,Aus Rice,33950,27860
+Chittagong,Chittagong,2008,Aus Rice,103450,102177
+Cox's Bazar,Chittagong,2008,Aus Rice,1785,1871
+Chandpur,Chittagong,2008,Aus Rice,31390,23942
+Feni,Chittagong,2008,Aus Rice,34055,24654
+Comilla,Chittagong,2008,Aus Rice,124460,99278
+Rangamati,Chittagong,2008,Aus Rice,16345,9965
+Noakhali,Chittagong,2008,Aus Rice,100010,50873
+Khagrachhari,Chittagong,2008,Aus Rice,6440,4864
+Dinajpur,North region,2008,Aus Rice,22755,22245
+Rangpur,North region,2008,Aus Rice,0,0
+Rajshahi,North region,2008,Aus Rice,123455,115356
+Bogura,North region,2008,Aus Rice,71915,60130
+Khulna,Khulna,2009,Aus Rice,14517,8320
+Jessor,Khulna,2009,Aus Rice,80943,71742
+Satkhira,Khulna,2009,Aus Rice,8467,7425
+Chuadanga,Khulna,2009,Aus Rice,25372,19735
+Chittagong,Chittagong,2009,Aus Rice,104473,102418
+Cox's Bazar,Chittagong,2009,Aus Rice,1632,2209
+Chandpur,Chittagong,2009,Aus Rice,29625,21373
+Feni,Chittagong,2009,Aus Rice,29975,24875
+Comilla,Chittagong,2009,Aus Rice,160828,137086
+Rangamati,Chittagong,2009,Aus Rice,15118,9203
+Noakhali,Chittagong,2009,Aus Rice,110616,67155
+Khagrachhari,Chittagong,2009,Aus Rice,5891,4382
+Dinajpur,North region,2009,Aus Rice,9578,7826
+Rangpur,North region,2009,Aus Rice,0,0
+Rajshahi,North region,2009,Aus Rice,76695,63960
+Bogura,North region,2009,Aus Rice,40894,27889
+Khulna,Khulna,2010,Aus Rice,13986,8569
+Jessor,Khulna,2010,Aus Rice,110794,106195
+Satkhira,Khulna,2010,Aus Rice,21273,20849
+Chuadanga,Khulna,2010,Aus Rice,28466,23164
+Chittagong,Chittagong,2010,Aus Rice,108306,102349
+Cox's Bazar,Chittagong,2010,Aus Rice,12494,13572
+Chandpur,Chittagong,2010,Aus Rice,29093,22558
+Feni,Chittagong,2010,Aus Rice,29604,22156
+Comilla,Chittagong,2010,Aus Rice,161742,141448
+Rangamati,Chittagong,2010,Aus Rice,14254,9280
+Noakhali,Chittagong,2010,Aus Rice,146057,91366
+Khagrachhari,Chittagong,2010,Aus Rice,6072,4763
+Dinajpur,North region,2010,Aus Rice,10705,8603
+Rangpur,North region,2010,Aus Rice,0,0
+Rajshahi,North region,2010,Aus Rice,97528,85089
+Bogura,North region,2010,Aus Rice,54746,43404
+Khulna,Khulna,2011,Aus Rice,17965,10584
+Jessor,Khulna,2011,Aus Rice,107093,106649
+Satkhira,Khulna,2011,Aus Rice,22237,23451
+Chuadanga,Khulna,2011,Aus Rice,35404,37880
+Chittagong,Chittagong,2011,Aus Rice,111671,108080
+Cox's Bazar,Chittagong,2011,Aus Rice,7804,8779
+Chandpur,Chittagong,2011,Aus Rice,24538,24282
+Feni,Chittagong,2011,Aus Rice,30420,29897
+Comilla,Chittagong,2011,Aus Rice,172231,157418
+Rangamati,Chittagong,2011,Aus Rice,15515,9890
+Noakhali,Chittagong,2011,Aus Rice,145880,96321
+Khagrachhari,Chittagong,2011,Aus Rice,5961,5182
+Dinajpur,North region,2011,Aus Rice,14314,15678
+Rangpur,North region,2011,Aus Rice,1250,1004
+Rajshahi,North region,2011,Aus Rice,107702,106330
+Bogura,North region,2011,Aus Rice,63314,53248
+Khulna,Khulna,2012,Aus Rice,20883,19150
+Jessor,Khulna,2012,Aus Rice,150043,111964
+Satkhira,Khulna,2012,Aus Rice,11817,6733
+Chuadanga,Khulna,2012,Aus Rice,20271,20089
+Chittagong,Chittagong,2012,Aus Rice,108712,107343
+Cox's Bazar,Chittagong,2012,Aus Rice,5676,5690
+Chandpur,Chittagong,2012,Aus Rice,24725,22360
+Feni,Chittagong,2012,Aus Rice,30734,27255
+Comilla,Chittagong,2012,Aus Rice,166611,161670
+Rangamati,Chittagong,2012,Aus Rice,16131,9899
+Noakhali,Chittagong,2012,Aus Rice,141596,94064
+Khagrachhari,Chittagong,2012,Aus Rice,6243,4943
+Dinajpur,North region,2012,Aus Rice,54201,30776
+Rangpur,North region,2012,Aus Rice,1200,1068
+Rajshahi,North region,2012,Aus Rice,117019,102336
+Bogura,North region,2012,Aus Rice,57296,50923
+Khulna,Khulna,2013,Aus Rice,19414,17413
+Jessor,Khulna,2013,Aus Rice,149043,105251
+Satkhira,Khulna,2013,Aus Rice,9763,5621
+Chuadanga,Khulna,2013,Aus Rice,20873,22977
+Chittagong,Chittagong,2013,Aus Rice,109163,110758
+Cox's Bazar,Chittagong,2013,Aus Rice,5347,4747
+Chandpur,Chittagong,2013,Aus Rice,25344,22552
+Feni,Chittagong,2013,Aus Rice,33181,27035
+Comilla,Chittagong,2013,Aus Rice,172392,189004
+Rangamati,Chittagong,2013,Aus Rice,14036,9968
+Noakhali,Chittagong,2013,Aus Rice,142964,93622
+Khagrachhari,Chittagong,2013,Aus Rice,6114,4570
+Dinajpur,North region,2013,Aus Rice,57176,37392
+Rangpur,North region,2013,Aus Rice,0,0
+Rajshahi,North region,2013,Aus Rice,117246,103380
+Bogura,North region,2013,Aus Rice,57296,56120
+Khulna,Khulna,2014,Aus Rice,8392,4525
+Jessor,Khulna,2014,Aus Rice,84690,96397
+Satkhira,Khulna,2014,Aus Rice,20051,20133
+Chuadanga,Khulna,2014,Aus Rice,63034,70287
+Chittagong,Chittagong,2014,Aus Rice,108575,108026
+Cox's Bazar,Chittagong,2014,Aus Rice,4405,4110
+Chandpur,Chittagong,2014,Aus Rice,29308,25969
+Feni,Chittagong,2014,Aus Rice,29269,26338
+Comilla,Chittagong,2014,Aus Rice,169961,172306
+Rangamati,Chittagong,2014,Aus Rice,17241,11414
+Noakhali,Chittagong,2014,Aus Rice,132752,93409
+Khagrachhari,Chittagong,2014,Aus Rice,6406,4687
+Dinajpur,North region,2014,Aus Rice,12067,11216
+Rangpur,North region,2014,Aus Rice,3275,3438
+Rajshahi,North region,2014,Aus Rice,96094,111467
+Bogura,North region,2014,Aus Rice,56081,52125
+Khulna,Khulna,2006,Aman Rice,274505,220009
+Jessor,Khulna,2006,Aman Rice,330570,332764
+Satkhira,Khulna,2006,Aman Rice,245990,257794
+Chuadanga,Khulna,2006,Aman Rice,89290,76724
+Chittagong,Chittagong,2006,Aman Rice,459145,456501
+Cox's Bazar,Chittagong,2006,Aman Rice,174520,188959
+Chandpur,Chittagong,2006,Aman Rice,117990,77183
+Feni,Chittagong,2006,Aman Rice,144220,145924
+Comilla,Chittagong,2006,Aman Rice,361495,276646
+Rangamati,Chittagong,2006,Aman Rice,22705,22788
+Noakhali,Chittagong,2006,Aman Rice,278360,188034
+Khagrachhari,Chittagong,2006,Aman Rice,58020,58698
+Dinajpur,North region,2006,Aman Rice,568075,469396
+Rangpur,North region,2006,Aman Rice,349160,330083
+Rajshahi,North region,2006,Aman Rice,169020,147656
+Bogura,North region,2006,Aman Rice,421930,372447
+Khulna,Khulna,2007,Aman Rice,267735,192869
+Jessor,Khulna,2007,Aman Rice,339730,354555
+Satkhira,Khulna,2007,Aman Rice,243320,227075
+Chuadanga,Khulna,2007,Aman Rice,87165,86416
+Chittagong,Chittagong,2007,Aman Rice,450770,440316
+Cox's Bazar,Chittagong,2007,Aman Rice,161305,174746
+Chandpur,Chittagong,2007,Aman Rice,84070,42389
+Feni,Chittagong,2007,Aman Rice,107910,104925
+Comilla,Chittagong,2007,Aman Rice,366095,279798
+Rangamati,Chittagong,2007,Aman Rice,18030,16982
+Noakhali,Chittagong,2007,Aman Rice,248240,125346
+Khagrachhari,Chittagong,2007,Aman Rice,71655,61395
+Dinajpur,North region,2007,Aman Rice,569720,553907
+Rangpur,North region,2007,Aman Rice,333875,265742
+Rajshahi,North region,2007,Aman Rice,170430,177145
+Bogura,North region,2007,Aman Rice,411435,365945
+Khulna,Khulna,2008,Aman Rice,264390,212203
+Jessor,Khulna,2008,Aman Rice,349635,346735
+Satkhira,Khulna,2008,Aman Rice,272105,287569
+Chuadanga,Khulna,2008,Aman Rice,97585,94440
+Chittagong,Chittagong,2008,Aman Rice,474045,469112
+Cox's Bazar,Chittagong,2008,Aman Rice,176510,212418
+Chandpur,Chittagong,2008,Aman Rice,118510,79282
+Feni,Chittagong,2008,Aman Rice,127440,125732
+Comilla,Chittagong,2008,Aman Rice,382070,327417
+Rangamati,Chittagong,2008,Aman Rice,24075,22333
+Noakhali,Chittagong,2008,Aman Rice,279060,193174
+Khagrachhari,Chittagong,2008,Aman Rice,72520,75935
+Dinajpur,North region,2008,Aman Rice,604585,602007
+Rangpur,North region,2008,Aman Rice,348050,320885
+Rajshahi,North region,2008,Aman Rice,171015,179016
+Bogura,North region,2008,Aman Rice,443735,386283
+Khulna,Khulna,2009,Aman Rice,217912,215848
+Jessor,Khulna,2009,Aman Rice,341226,313555
+Satkhira,Khulna,2009,Aman Rice,207649,193309
+Chuadanga,Khulna,2009,Aman Rice,113537,104373
+Chittagong,Chittagong,2009,Aman Rice,469442,489931
+Cox's Bazar,Chittagong,2009,Aman Rice,181152,224699
+Chandpur,Chittagong,2009,Aman Rice,129394,99443
+Feni,Chittagong,2009,Aman Rice,141039,147174
+Comilla,Chittagong,2009,Aman Rice,368455,341627
+Rangamati,Chittagong,2009,Aman Rice,23922,25537
+Noakhali,Chittagong,2009,Aman Rice,288961,216300
+Khagrachhari,Chittagong,2009,Aman Rice,77761,87202
+Dinajpur,North region,2009,Aman Rice,607395,581075
+Rangpur,North region,2009,Aman Rice,357770,346055
+Rajshahi,North region,2009,Aman Rice,187090,193581
+Bogura,North region,2009,Aman Rice,441965,366445
+Khulna,Khulna,2010,Aman Rice,200321,176017
+Jessor,Khulna,2010,Aman Rice,375560,332402
+Satkhira,Khulna,2010,Aman Rice,251482,286059
+Chuadanga,Khulna,2010,Aman Rice,109103,96142
+Chittagong,Chittagong,2010,Aman Rice,458472,478656
+Cox's Bazar,Chittagong,2010,Aman Rice,184632,207762
+Chandpur,Chittagong,2010,Aman Rice,129839,82066
+Feni,Chittagong,2010,Aman Rice,162124,191320
+Comilla,Chittagong,2010,Aman Rice,361548,349487
+Rangamati,Chittagong,2010,Aman Rice,23578,24352
+Noakhali,Chittagong,2010,Aman Rice,291268,211545
+Khagrachhari,Chittagong,2010,Aman Rice,75644,88001
+Dinajpur,North region,2010,Aman Rice,604853,637965
+Rangpur,North region,2010,Aman Rice,343825,368115
+Rajshahi,North region,2010,Aman Rice,181820,201370
+Bogura,North region,2010,Aman Rice,453517,396788
+Khulna,Khulna,2011,Aman Rice,206177,181186
+Jessor,Khulna,2011,Aman Rice,336037,353267
+Satkhira,Khulna,2011,Aman Rice,207797,219388
+Chuadanga,Khulna,2011,Aman Rice,107381,122987
+Chittagong,Chittagong,2011,Aman Rice,455458,467750
+Cox's Bazar,Chittagong,2011,Aman Rice,182297,213334
+Chandpur,Chittagong,2011,Aman Rice,108525,77592
+Feni,Chittagong,2011,Aman Rice,162522,188358
+Comilla,Chittagong,2011,Aman Rice,352781,342915
+Rangamati,Chittagong,2011,Aman Rice,24155,25746
+Noakhali,Chittagong,2011,Aman Rice,293415,220437
+Khagrachhari,Chittagong,2011,Aman Rice,76231,89607
+Dinajpur,North region,2011,Aman Rice,610853,606407
+Rangpur,North region,2011,Aman Rice,358971,388317
+Rajshahi,North region,2011,Aman Rice,180053,185350
+Bogura,North region,2011,Aman Rice,453143,428279
+Khulna,Khulna,2012,Aman Rice,228120,208540
+Jessor,Khulna,2012,Aman Rice,327742,317470
+Satkhira,Khulna,2012,Aman Rice,230873,250523
+Chuadanga,Khulna,2012,Aman Rice,107457,119763
+Chittagong,Chittagong,2012,Aman Rice,444559,474409
+Cox's Bazar,Chittagong,2012,Aman Rice,181104,221200
+Chandpur,Chittagong,2012,Aman Rice,116604,90938
+Feni,Chittagong,2012,Aman Rice,159379,182253
+Comilla,Chittagong,2012,Aman Rice,355550,338564
+Rangamati,Chittagong,2012,Aman Rice,24009,24566
+Noakhali,Chittagong,2012,Aman Rice,307792,234188
+Khagrachhari,Chittagong,2012,Aman Rice,76139,91560
+Dinajpur,North region,2012,Aman Rice,607702,631882
+Rangpur,North region,2012,Aman Rice,385735,408861
+Rajshahi,North region,2012,Aman Rice,171087,196898
+Bogura,North region,2012,Aman Rice,449903,448188
+Khulna,Khulna,2013,Aman Rice,134596,125844
+Jessor,Khulna,2013,Aman Rice,500714,350174
+Satkhira,Khulna,2013,Aman Rice,239487,250786
+Chuadanga,Khulna,2013,Aman Rice,227391,273828
+Chittagong,Chittagong,2013,Aman Rice,440237,477130
+Cox's Bazar,Chittagong,2013,Aman Rice,178357,179658
+Chandpur,Chittagong,2013,Aman Rice,91446,70130
+Feni,Chittagong,2013,Aman Rice,165594,196532
+Comilla,Chittagong,2013,Aman Rice,347072,326956
+Rangamati,Chittagong,2013,Aman Rice,24542,27076
+Noakhali,Chittagong,2013,Aman Rice,306912,235917
+Khagrachhari,Chittagong,2013,Aman Rice,67204,78135
+Dinajpur,North region,2013,Aman Rice,195229,166802
+Rangpur,North region,2013,Aman Rice,384166,426809
+Rajshahi,North region,2013,Aman Rice,117370,118453
+Bogura,North region,2013,Aman Rice,455471,468936
+Khulna,Khulna,2014,Aman Rice,247129,255133
+Jessor,Khulna,2014,Aman Rice,322696,338975
+Satkhira,Khulna,2014,Aman Rice,230416,279166
+Chuadanga,Khulna,2014,Aman Rice,90259,99997
+Chittagong,Chittagong,2014,Aman Rice,437253,495198
+Cox's Bazar,Chittagong,2014,Aman Rice,179172,175192
+Chandpur,Chittagong,2014,Aman Rice,105836,71142
+Feni,Chittagong,2014,Aman Rice,163459,187203
+Comilla,Chittagong,2014,Aman Rice,343998,292803
+Rangamati,Chittagong,2014,Aman Rice,24900,27810
+Noakhali,Chittagong,2014,Aman Rice,313536,248264
+Khagrachhari,Chittagong,2014,Aman Rice,68359,78366
+Dinajpur,North region,2014,Aman Rice,300796,339766
+Rangpur,North region,2014,Aman Rice,388989,435563
+Rajshahi,North region,2014,Aman Rice,527641,605457
+Bogura,North region,2014,Aman Rice,448004,480483
+Khulna,Khulna,2006,Boro Rice,85440,113713
+Jessor,Khulna,2006,Boro Rice,339140,591955
+Satkhira,Khulna,2006,Boro Rice,140060,216233
+Chuadanga,Khulna,2006,Boro Rice,77735,116240
+Chittagong,Chittagong,2006,Boro Rice,173745,188662
+Cox's Bazar,Chittagong,2006,Boro Rice,98315,120848
+Chandpur,Chittagong,2006,Boro Rice,160920,205306
+Feni,Chittagong,2006,Boro Rice,70650,94490
+Comilla,Chittagong,2006,Boro Rice,393100,557585
+Rangamati,Chittagong,2006,Boro Rice,17755,20631
+Noakhali,Chittagong,2006,Boro Rice,109930,156504
+Khagrachhari,Chittagong,2006,Boro Rice,20915,27770
+Dinajpur,North region,2006,Boro Rice,397155,603367
+Rangpur,North region,2006,Boro Rice,285785,429051
+Rajshahi,North region,2006,Boro Rice,178155,288762
+Bogura,North region,2006,Boro Rice,464335,677991
+Khulna,Khulna,2007,Boro Rice,92835,149530
+Jessor,Khulna,2007,Boro Rice,374070,584947
+Satkhira,Khulna,2007,Boro Rice,158255,234407
+Chuadanga,Khulna,2007,Boro Rice,88510,141753
+Chittagong,Chittagong,2007,Boro Rice,189150,260882
+Cox's Bazar,Chittagong,2007,Boro Rice,128250,176572
+Chandpur,Chittagong,2007,Boro Rice,168430,252391
+Feni,Chittagong,2007,Boro Rice,85410,129323
+Comilla,Chittagong,2007,Boro Rice,396225,610166
+Rangamati,Chittagong,2007,Boro Rice,16395,23936
+Noakhali,Chittagong,2007,Boro Rice,134640,222981
+Khagrachhari,Chittagong,2007,Boro Rice,23155,32335
+Dinajpur,North region,2007,Boro Rice,417325,670664
+Rangpur,North region,2007,Boro Rice,299335,472357
+Rajshahi,North region,2007,Boro Rice,193860,341679
+Bogura,North region,2007,Boro Rice,469185,759711
+Khulna,Khulna,2008,Boro Rice,98333,139626
+Jessor,Khulna,2008,Boro Rice,375624,600007
+Satkhira,Khulna,2008,Boro Rice,166257,238982
+Chuadanga,Khulna,2008,Boro Rice,104716,167878
+Chittagong,Chittagong,2008,Boro Rice,158431,209701
+Cox's Bazar,Chittagong,2008,Boro Rice,124899,157830
+Chandpur,Chittagong,2008,Boro Rice,164888,229990
+Feni,Chittagong,2008,Boro Rice,78201,117168
+Comilla,Chittagong,2008,Boro Rice,397944,598873
+Rangamati,Chittagong,2008,Boro Rice,17017,25032
+Noakhali,Chittagong,2008,Boro Rice,1331128,214076
+Khagrachhari,Chittagong,2008,Boro Rice,24090,28557
+Dinajpur,North region,2008,Boro Rice,435497,671440
+Rangpur,North region,2008,Boro Rice,304290,483725
+Rajshahi,North region,2008,Boro Rice,195615,326367
+Bogura,North region,2008,Boro Rice,466761,782885
+Khulna,Khulna,2009,Boro Rice,106157,158228
+Jessor,Khulna,2009,Boro Rice,386873,627644
+Satkhira,Khulna,2009,Boro Rice,179856,263082
+Chuadanga,Khulna,2009,Boro Rice,105278,174804
+Chittagong,Chittagong,2009,Boro Rice,169489,233924
+Cox's Bazar,Chittagong,2009,Boro Rice,125575,160382
+Chandpur,Chittagong,2009,Boro Rice,162475,270438
+Feni,Chittagong,2009,Boro Rice,78097,102311
+Comilla,Chittagong,2009,Boro Rice,407809,640814
+Rangamati,Chittagong,2009,Boro Rice,18186,27491
+Noakhali,Chittagong,2009,Boro Rice,142813,219398
+Khagrachhari,Chittagong,2009,Boro Rice,27888,33551
+Dinajpur,North region,2009,Boro Rice,435378,665415
+Rangpur,North region,2009,Boro Rice,314804,515483
+Rajshahi,North region,2009,Boro Rice,176055,272891
+Bogura,North region,2009,Boro Rice,463370,747627
+Khulna,Khulna,2010,Boro Rice,107614,162899
+Jessor,Khulna,2010,Boro Rice,384554,647016
+Satkhira,Khulna,2010,Boro Rice,180942,260274
+Chuadanga,Khulna,2010,Boro Rice,102732,157103
+Chittagong,Chittagong,2010,Boro Rice,171963,233916
+Cox's Bazar,Chittagong,2010,Boro Rice,125430,165411
+Chandpur,Chittagong,2010,Boro Rice,164887,258904
+Feni,Chittagong,2010,Boro Rice,77123,109236
+Comilla,Chittagong,2010,Boro Rice,401849,632742
+Rangamati,Chittagong,2010,Boro Rice,20376,30774
+Noakhali,Chittagong,2010,Boro Rice,144502,228637
+Khagrachhari,Chittagong,2010,Boro Rice,25722,36266
+Dinajpur,North region,2010,Boro Rice,435223,667421
+Rangpur,North region,2010,Boro Rice,316099,480287
+Rajshahi,North region,2010,Boro Rice,180307,292510
+Bogura,North region,2010,Boro Rice,461051,696400
+Khulna,Khulna,2011,Boro Rice,118943,171587
+Jessor,Khulna,2011,Boro Rice,385042,649269
+Satkhira,Khulna,2011,Boro Rice,182071,265357
+Chuadanga,Khulna,2011,Boro Rice,99496,154396
+Chittagong,Chittagong,2011,Boro Rice,166150,227322
+Cox's Bazar,Chittagong,2011,Boro Rice,123621,168045
+Chandpur,Chittagong,2011,Boro Rice,162771,254239
+Feni,Chittagong,2011,Boro Rice,85113,119962
+Comilla,Chittagong,2011,Boro Rice,401980,623052
+Rangamati,Chittagong,2011,Boro Rice,20016,27126
+Noakhali,Chittagong,2011,Boro Rice,146257,229450
+Khagrachhari,Chittagong,2011,Boro Rice,26134,35650
+Dinajpur,North region,2011,Boro Rice,430005,660743
+Rangpur,North region,2011,Boro Rice,326938,497748
+Rajshahi,North region,2011,Boro Rice,189045,311571
+Bogura,North region,2011,Boro Rice,458969,692543
+Khulna,Khulna,2012,Boro Rice,1115081,172068
+Jessor,Khulna,2012,Boro Rice,381693,644883
+Satkhira,Khulna,2012,Boro Rice,178811,270255
+Chuadanga,Khulna,2012,Boro Rice,96867,149012
+Chittagong,Chittagong,2012,Boro Rice,165897,251413
+Cox's Bazar,Chittagong,2012,Boro Rice,122233,169475
+Chandpur,Chittagong,2012,Boro Rice,161352,233621
+Feni,Chittagong,2012,Boro Rice,82007,121705
+Comilla,Chittagong,2012,Boro Rice,395077,635359
+Rangamati,Chittagong,2012,Boro Rice,11832,16623
+Noakhali,Chittagong,2012,Boro Rice,144759,232474
+Khagrachhari,Chittagong,2012,Boro Rice,25383,33326
+Dinajpur,North region,2012,Boro Rice,425555,696518
+Rangpur,North region,2012,Boro Rice,326753,537696
+Rajshahi,North region,2012,Boro Rice,184627,302833
+Bogura,North region,2012,Boro Rice,454736,730444
+Khulna,Khulna,2013,Boro Rice,121589,198721
+Jessor,Khulna,2013,Boro Rice,392454,654035
+Satkhira,Khulna,2013,Boro Rice,186159,287339
+Chuadanga,Khulna,2013,Boro Rice,101707,150362
+Chittagong,Chittagong,2013,Boro Rice,156762,213771
+Cox's Bazar,Chittagong,2013,Boro Rice,123297,177172
+Chandpur,Chittagong,2013,Boro Rice,158722,210305
+Feni,Chittagong,2013,Boro Rice,81950,121469
+Comilla,Chittagong,2013,Boro Rice,397271,615555
+Rangamati,Chittagong,2013,Boro Rice,18759,30629
+Noakhali,Chittagong,2013,Boro Rice,152793,259655
+Khagrachhari,Chittagong,2013,Boro Rice,25280,34202
+Dinajpur,North region,2013,Boro Rice,431169,717878
+Rangpur,North region,2013,Boro Rice,331530,572403
+Rajshahi,North region,2013,Boro Rice,180726,286351
+Bogura,North region,2013,Boro Rice,461593,756043
+Khulna,Khulna,2014,Boro Rice,121130,190876
+Jessor,Khulna,2014,Boro Rice,214866,368316
+Satkhira,Khulna,2014,Boro Rice,90214,141938
+Chuadanga,Khulna,2014,Boro Rice,96880,147069
+Chittagong,Chittagong,2014,Boro Rice,163493,230000
+Cox's Bazar,Chittagong,2014,Boro Rice,122336,168002
+Chandpur,Chittagong,2014,Boro Rice,159197,221831
+Feni,Chittagong,2014,Boro Rice,77898,111634
+Comilla,Chittagong,2014,Boro Rice,391810,576496
+Rangamati,Chittagong,2014,Boro Rice,18786,29896
+Noakhali,Chittagong,2014,Boro Rice,147811,262472
+Khagrachhari,Chittagong,2014,Boro Rice,25537,35101
+Dinajpur,North region,2014,Boro Rice,442342,735364
+Rangpur,North region,2014,Boro Rice,333970,605244
+Rajshahi,North region,2014,Boro Rice,179050,298819
+Bogura,North region,2014,Boro Rice,469850,688437
+Khulna,Khulna,2005,Aus Rice,32223,24482
+Jessor,Khulna,2005,Aus Rice,142599,116121
+Kushtia,Khulna,2005,Aus Rice,98548,75932
+Chittagong,Chittagong,2005,Aus Rice,86645,82878
+Comilla,Chittagong,2005,Aus Rice,209025,154405
+Rangamati,Chittagong,2005,Aus Rice,13668,9894
+Noakhali,Chittagong,2005,Aus Rice,210436,128835
+Dinajpur,North region,2005,Aus Rice,20866,17752
+Rangpur,North region,2005,Aus Rice,6975,3612
+Rajshahi,North region,2005,Aus Rice,214255,175489
+Bogra,North region,2005,Aus Rice,19867,14846
+Khulna,Khulna,2005,Aman Rice,800537,666957
+Jessor,Khulna,2005,Aman Rice,762871,757824
+Kushtia,Khulna,2005,Aman Rice,294426,243711
+Chittagong,Chittagong,2005,Aman Rice,632647,643804
+Comilla,Chittagong,2005,Aman Rice,548692,410652
+Rangamati,Chittagong,2005,Aman Rice,25377,24791
+Noakhali,Chittagong,2005,Aman Rice,650719,493400
+Dinajpur,North region,2005,Aman Rice,1008173,823558
+Rangpur,North region,2005,Aman Rice,1344335,1115308
+Rajshahi,North region,2005,Aman Rice,959866,892830
+Bogra,North region,2005,Aman Rice,540972,458407
+Khulna,Khulna,2005,Boro Rice,270302,334953
+Jessor,Khulna,2005,Boro Rice,667629,1008922
+Kushtia,Khulna,2005,Boro Rice,202920,301038
+Chittagong,Chittagong,2005,Boro Rice,273854,313277
+Comilla,Chittagong,2005,Boro Rice,832248,1157012
+Rangamati,Chittagong,2005,Boro Rice,17120,21817
+Noakhali,Chittagong,2005,Boro Rice,249138,342958
+Dinajpur,North region,2005,Boro Rice,557836,764233
+Rangpur,North region,2005,Boro Rice,910930,1228937
+Rajshahi,North region,2005,Boro Rice,886941,1274843
+Bogra,North region,2005,Boro Rice,661263,901785
